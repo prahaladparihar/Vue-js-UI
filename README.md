@@ -1,6 +1,8 @@
-# hello
+# Vue js UI
+> A Vue.js project which gives more details on-clicking on name.
+# IMAGES
+>
 
-> A Vue.js project
 
 ## Build Setup
 
@@ -14,5 +16,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
