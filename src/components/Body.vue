@@ -12,7 +12,7 @@
         </ul>
     </div>
 </template>
-
+//script
 <script>
 export default {
   data() {
@@ -31,7 +31,7 @@ export default {
   }
 };
 </script>
-
+// css 
 <style scoped>
 i {
   color: rgb(0, 255, 21);
