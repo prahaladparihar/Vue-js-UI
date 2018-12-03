@@ -6,12 +6,12 @@
   </div>  
 </template>
 
-<script>
+<script>  //importing components to locally
 import Header from "./components/Header";
 import Footer from "./components/Footer.vue";
 import Body from "./components/Body.vue";
 export default {
-  components: {
+  components: {   //locally register for  components
     "app-header": Header,
     "app-footer": Footer,
     "app-body": Body
